@@ -1,0 +1,8 @@
+{
+"name": "Wish-Bot",
+"Version": "1.0.0",
+"description": "my very own discord bot",
+"main": "bot.js",
+"author": "Big-Papii",
+"dependencies": {}
+}
